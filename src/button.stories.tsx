@@ -11,7 +11,7 @@ const Template: ComponentStory<typeof Button> = ({ text }) => (
 );
 
 // const Template: ComponentStory<typeof Button> = () => (
-//   <Button text="button text" />
+//   <Button text="button" />
 // );
 
 export const Default = Template.bind({});
