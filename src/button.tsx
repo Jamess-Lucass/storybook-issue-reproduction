@@ -1,4 +1,4 @@
-import { forwardRef, ForwardRefExoticComponent, RefAttributes } from "react";
+import { forwardRef } from "react";
 
 export type ButtonProps = {
   text: string;
